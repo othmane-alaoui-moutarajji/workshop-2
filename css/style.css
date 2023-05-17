@@ -283,6 +283,9 @@ footer .socials i{
     color:white;
 
 }
+footer ul li {
+    list-style-type: none;
+}
 /* spacing the sections */
 .projects, .video, .form-skill, .contact , footer {
     padding-top: 50px;
